@@ -3,8 +3,8 @@
 Portfolio creado con HTML, Bootstrap, Js, PHP y MySQL
 
 ## Autores 📝
-* **>Mario Toro**
-* **>Rafael Toro**
+* **Mario Toro**
+* **Rafael Toro**
 
 * [LinkedIn Mario](www.linkedin.com/in/mariotorodev)
 * [LinkedIn Rafael](https://www.linkedin.com/in/rafael-toro-huggins-43619b280/)
